@@ -23,8 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'we2!_#otzpc@+h0h)ak-f)yul(rdn2p$lw&x$a*w_fs1$ub&k+'
 
 
-DYNAMODB_SESSIONS_AWS_ACCESS_KEY_ID = 'AKIAJTBDXNQP65PJHU5Q'
-DYNAMODB_SESSIONS_AWS_SECRET_ACCESS_KEY = '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'
+DYNAMODB_SESSIONS_AWS_ACCESS_KEY_ID = 'insert'
+DYNAMODB_SESSIONS_AWS_SECRET_ACCESS_KEY = 'insert'
 
 DYNAMO_ENDPOINT = "http://dynamodb.us-east-2.amazonaws.com"
 #SESSION_ENGINE = 'dynamodb_sessions.backends.cached_dynamodb'
